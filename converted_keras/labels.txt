@@ -1,0 +1,3 @@
+0 Pokemon
+1 Digimon
+2 Other
